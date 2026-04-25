@@ -13,7 +13,13 @@ Right now I'm leading research on tourist review analysis for Mexican destinatio
 
 Built a full LangGraph Map-Reduce workflow that retrieves reviews from a ChromaDB vector store, extracts structured insights per business type in parallel, and consolidates them into a validated strategic briefing — with a self-correction audit loop and an interactive Streamlit + FastAPI interface on top.
 
-`LangGraph` `LiteLLM` `ChromaDB` `FastAPI` `Streamlit` `MLflow` `DVC`
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=langchain&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-6C3FC7?style=flat&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-F4A261?style=flat&logo=databricks&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white)
 
 ---
 
@@ -22,7 +28,12 @@ Built a full LangGraph Map-Reduce workflow that retrieves reviews from a ChromaD
 
 Full ML lifecycle: experiment tracking with MLflow, pipeline orchestration with Prefect, cloud infrastructure provisioned with Terraform, and real-time serverless inference via AWS Lambda + Kinesis. Includes unit tests, LocalStack integration tests, and automated linting — the kind of project where the engineering matters as much as the model.
 
-`MLflow` `Prefect` `Terraform` `AWS (Lambda · Kinesis · S3 · ECR)` `Docker` `LocalStack`
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=flat&logo=prefect&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![LocalStack](https://img.shields.io/badge/LocalStack-000000?style=flat&logo=localstack&logoColor=white)
 
 ---
 
@@ -31,7 +42,8 @@ Full ML lifecycle: experiment tracking with MLflow, pipeline orchestration with 
 
 Combined content-based multimodal encoders with sequential user modeling to recommend music even for new users or tracks with no history.
 
-`PyTorch` `Two-Tower` `Sentence Transformers`
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Sentence--Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 ---
 
