@@ -1,12 +1,10 @@
 # Hi, I'm Gustavo 👋
 
-I'm a **Data Scientist & LLM Engineer** based in Monterrey, México, currently finishing my M.Sc. in Data Science at [CIMAT](https://www.cimat.mx/). My work lives at the intersection of **Natural Language Processing**, **LLM systems**, and **MLOps** — I enjoy taking AI projects from a rough idea all the way to something running in production.
-
-Right now I'm leading research on tourist review analysis for Mexican destinations, building RAG pipelines, and thinking a lot about how to make language models actually useful in the real world.
+I'm a **Data Scientist & LLM Engineer** based in Monterrey, México, currently finishing my M.Sc. in Data Science at [CIMAT](https://www.cimat.mx/). My work lives at the intersection of **Natural Language Processing**, **LLM systems**, and **MLOps**. Right now I'm leading research on tourist review analysis for Mexican destinations, building RAG pipelines, and thinking a lot about how to make language models actually useful in the real world.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Tourism Reports LLM](https://github.com/Gustavo-HA/Tourism-Reports-LLM)
 > *RAG system that turns scattered tourist reviews into strategic intelligence reports for México's Pueblos Mágicos.*
@@ -26,7 +24,7 @@ Built a full LangGraph Map-Reduce workflow that retrieves reviews from a ChromaD
 ### [Loan Prediction — MLOps Capstone](https://github.com/Gustavo-HA/loan_prediction)
 > *End-to-end MLOps pipeline for loan eligibility prediction, deployed on AWS.*
 
-Full ML lifecycle: experiment tracking with MLflow, pipeline orchestration with Prefect, cloud infrastructure provisioned with Terraform, and real-time serverless inference via AWS Lambda + Kinesis. Includes unit tests, LocalStack integration tests, and automated linting — the kind of project where the engineering matters as much as the model.
+Full ML lifecycle: experiment tracking with MLflow, pipeline orchestration with Prefect, cloud infrastructure provisioned with Terraform, and real-time serverless inference via AWS Lambda + Kinesis. Includes unit tests, LocalStack integration tests, and automated linting... the kind of project where the engineering matters as much as the model.
 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=flat&logo=prefect&logoColor=white)
@@ -47,13 +45,13 @@ Combined content-based multimodal encoders with sequential user modeling to reco
 
 ---
 
-## 🏆 A highlight
+## A highlight
 
-At REST-MEX 2025 — a national NLP competition focused on Mexican tourism reviews — our team placed **6th out of all participating teams**, earning an **honorable mention**. Good times.
+At REST-MEX 2025, a national NLP competition focused on Mexican tourism reviews, our team placed **7th out of all participating teams**, earning an **honorable mention**. Good times.
 
 ---
 
-## 📬 Let's connect
+## Let's connect
 
 I'm always open to interesting conversations about NLP, LLM systems, or MLOps. Feel free to reach out!
 
