@@ -1,6 +1,6 @@
 # Hi, I'm Gustavo 👋
 
-I'm a **Data Scientist & LLM Engineer** based in Monterrey, México, currently finishing my M.Sc. in Data Science at [CIMAT](https://www.cimat.mx/). My work lives at the intersection of **Natural Language Processing**, **LLM systems**, traditional **ML**, and **MLOps**. Right now I'm leading research on tourist review analysis for Mexican destinations, building RAG pipelines, and thinking a lot about how to make language models actually useful in the real world.
+I'm a **Data Scientist & LLM Engineer** based in Monterrey, México, currently finishing my M.Sc. in Data Science at [CIMAT](https://www.cimat.mx/). My work lives at the intersection of **Natural Language Processing**, **LLM systems**, **ML**, and **MLOps**. Right now I'm leading research on tourist review analysis for Mexican destinations, building RAG pipelines, and thinking a lot about how to make language models actually useful in the real world.
 
 ---
 
